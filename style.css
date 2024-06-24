@@ -16,3 +16,8 @@ a{
 a:hover{
     font-weight: bold;
 }
+
+.exp_page img{
+    width: 25%;
+    height: 25%;
+}
